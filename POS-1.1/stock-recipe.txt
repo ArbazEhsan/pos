@@ -1,0 +1,18 @@
+12 incher
+150 gram chicken
+150 gram cheese
+90 gram Mayonnaise
+
+------------------
+
+9 incher
+90 gram chicken
+90 gram cheese
+60 gram Mayonnaise
+
+------------------
+
+6 incher
+50 gram chicken
+50 gram cheese
+40 gram Mayonnaise
